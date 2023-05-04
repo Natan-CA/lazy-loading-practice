@@ -6,4 +6,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Para executar ele
 
-#ng serve
+- ng serve
+- ir para localhost:4200
